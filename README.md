@@ -16,7 +16,7 @@ This repository contains my solutions to various **Data Structures and Algorithm
 - Practice coding challenges daily
 
 ## 🚀 Platforms
-- [LeetCode](https://leetcode.com/)
+- [LeetCode](https://leetcode.com/u/faishal_husain/)
 - [HackerRank](https://www.hackerrank.com/)
 
 ---
