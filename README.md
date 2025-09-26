@@ -17,7 +17,7 @@ This repository contains my solutions to various **Data Structures and Algorithm
 
 ## 🚀 Platforms
 - [LeetCode](https://leetcode.com/u/faishal_husain/)
-- [HackerRank](https://www.hackerrank.com/)
+- [HackerRank](https://www.hackerrank.com/profile/2301641720043_A)
 
 ---
 
