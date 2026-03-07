@@ -17,3 +17,22 @@ public:
         return res;
     }
 };
+
+//optimal approach using HASHMAP in O(n) time complexity 
+class Solution {
+public:
+    vector<int> intersect(vector<int>& nums1, vector<int>& nums2) {
+        unordered_map<int,int> mpp;
+        for(int i : nums1) {
+            mpp[i]++;
+        }
+        vector<int> res;
+        for(int i : nums2){
+            if(mpp[i] > 0){
+                res.push_back(i);
+                mpp[i]--;
+            }
+        }
+        return res;
+    } 
+};
